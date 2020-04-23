@@ -2,7 +2,7 @@
 const Hapi = require('hapi');
 
 // Store the hosting server and the port 
-const host = 'localhost';
+const host = '0.0.0.0';
 const port = 3000; 
 
 // Lets create the server here
